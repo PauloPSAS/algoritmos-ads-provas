@@ -24,5 +24,5 @@ provas/
 
 ## 🧪 Provas disponíveis
 
-- 📅 [2025.1 - 1ª Avaliação(v1)](provas/2025-1-av1-v1/)
+- 📅 [2025.1 - 1ª Avaliação(v1)](provas/2025-1-av1-v1/avalicao1v1.md)
 - 📅 [2025.1 - 1ª Avaliação(v2)](provas/2025-1-av1-v2/)
